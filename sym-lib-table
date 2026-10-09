@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "balmer_allwinner_v3s-rescue") (type "Legacy") (uri "${KIPRJMOD}/balmer_allwinner_v3s-rescue.lib") (options "") (descr ""))
+	(lib (name "balmer_allwinner_v3s_v2-rescue") (type "Legacy") (uri "${KIPRJMOD}/balmer_allwinner_v3s_v2-rescue.lib") (options "") (descr ""))
+	(lib (name "balmer_allwinner_v3s_v2-cache") (type "Legacy") (uri "/home/bodya/AllwinnerV3S_KiCad/schematic/balmer_allwinner_v3s_v2/balmer_allwinner_v3s_v2-cache.lib") (options "") (descr "Legacy project cache library"))
+)
